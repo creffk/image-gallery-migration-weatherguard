@@ -10,4 +10,4 @@ I executed the program in PyCharm. I learned how to setup pip, how to install li
 
 I borrowed this example https://stackoverflow.com/questions/43982002/extract-src-attribute-from-img-tag-using-beautifulsoup, but modified it for my own use case. 
 
-After I created my list of URL's, I pasted them into Excel, completed a Find/Replace to remove the thumbnail dimensions from the url (-230x200) so that I could have the filepath to the direct file to download and then import into media of the new site.
+After I created my list of URL's, I pasted them into Excel, completed a Find/Replace to remove the thumbnail dimensions from the url (-230x200) so that I could have the filepath to the direct file to download and then import into media of the new site. See filepaths file.
